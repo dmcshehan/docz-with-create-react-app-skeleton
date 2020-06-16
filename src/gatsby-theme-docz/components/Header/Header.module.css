@@ -1,0 +1,10 @@
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 10px 25px;
+}
+
+.heading {
+	font-size: 30px;
+}
